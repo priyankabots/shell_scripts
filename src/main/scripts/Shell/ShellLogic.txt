@@ -1,0 +1,18 @@
+/priya/shell
+
+Create text file::
+vi hello.txt
+Hasdf
+asdf
+as
+fsdf
+:wq
+
+Shell Name: CountLines.sh
+
+Shell script execution: 
+sh CountLines.sh hello.txt
+
+Output: 
+File name: hello.txt
+Count Lines: 5
